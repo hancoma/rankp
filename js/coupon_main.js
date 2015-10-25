@@ -1,5 +1,5 @@
 function main_menu() {
-	$.post("http://rankp.caf24.com/main_menu.php",
+	$.post("http://rankp.cafe24.com/main_menu.php",
 	{
 		
 	},function(data) {
