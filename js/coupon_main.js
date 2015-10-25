@@ -1,6 +1,5 @@
 function main_menu() {
-	var category=no;
-	$.post("http://kimsqapp.kimsq.co.kr/main_menu.php",
+	$.post("http://rankp.caf24.com/main_menu.php",
 	{
 		
 	},function(data) {

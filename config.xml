@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ranp.hancoma" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>rankp</name>
+    <name>블로그 방문기</name>
     <description>
-       rankp
+       블로그 방문기
     </description>
     <author email="ch7@daum.net" href="http://hancoma.com">
-        rankp
+        블로그 방문기
     </author>
     <content src="index.html" />
     
